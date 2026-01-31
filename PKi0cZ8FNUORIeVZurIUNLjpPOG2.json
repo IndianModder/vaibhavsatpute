@@ -18,14 +18,20 @@
                     "download_url": "https://gfzqeecnbibjhzqnygby.supabase.co/storage/v1/object/public/vaibhav/PKi0cZ8FNUORIeVZurIUNLjpPOG2_1769832410_341cbc7189206efa_Crunchyroll.aes",
                     "fileName": "Crunchyroll.aes",
                     "fileSize": 141440
+                },
+                {
+                    "name": "Server 2",
+                    "download_url": "",
+                    "fileName": "",
+                    "fileSize": 0
                 }
             ],
-            "created_at": "2026-01-31T04:16:23+00:00",
-            "updated_at": "2026-01-31T04:16:23+00:00",
+            "created_at": "2026-01-31T04:18:51+00:00",
+            "updated_at": "2026-01-31T04:18:51+00:00",
             "is_active": true
         }
     ],
     "user_id": "PKi0cZ8FNUORIeVZurIUNLjpPOG2",
-    "updated_at": "2026-01-31T04:16:23+00:00",
+    "updated_at": "2026-01-31T04:18:52+00:00",
     "service": "VS Cloud Service"
 }
