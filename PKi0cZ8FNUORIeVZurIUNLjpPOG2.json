@@ -29,9 +29,33 @@
             "created_at": "2026-01-31T05:29:00+00:00",
             "updated_at": "2026-01-31T05:29:00+00:00",
             "is_active": true
+        },
+        {
+            "id": "app_1769874919133_866676931",
+            "user_id": "PKi0cZ8FNUORIeVZurIUNLjpPOG2",
+            "app_name": "Spotify",
+            "package_name": "com.spotify.music",
+            "version": "1.0.0",
+            "description": "Hi",
+            "ui_type": 1,
+            "signature_hash": "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e",
+            "redirect_url": "https://t.me/DynamiteModder",
+            "aes_key": "@vaibhavsatpute@",
+            "aes_iv": "@vaibhavsatpute@",
+            "servers": [
+                {
+                    "name": "Server 1🙂",
+                    "download_url": "https://gfzqeecnbibjhzqnygby.supabase.co/storage/v1/object/public/vaibhav/PKi0cZ8FNUORIeVZurIUNLjpPOG2_1769874910_b1790815cf9f0b30_AppData_com.spotify.music_1769874660942.zip",
+                    "fileName": "AppData_com.spotify.music_1769874660942.zip",
+                    "fileSize": 127073
+                }
+            ],
+            "created_at": "2026-01-31T15:55:19.133Z",
+            "updated_at": "2026-01-31T15:55:20+00:00",
+            "is_active": true
         }
     ],
     "user_id": "PKi0cZ8FNUORIeVZurIUNLjpPOG2",
-    "updated_at": "2026-01-31T05:29:01+00:00",
+    "updated_at": "2026-01-31T15:55:20+00:00",
     "service": "VS Cloud Service"
 }
