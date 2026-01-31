@@ -44,18 +44,18 @@
             "aes_iv": "@vaibhavsatpute@",
             "servers": [
                 {
-                    "name": "Server 1",
+                    "name": "Server 1 he",
                     "download_url": "https://gfzqeecnbibjhzqnygby.supabase.co/storage/v1/object/public/vaibhav/PKi0cZ8FNUORIeVZurIUNLjpPOG2_1769876259_c6d732365893cc4b_AppData.aes",
                     "fileName": "AppData.aes",
                     "fileSize": 2108480
                 }
             ],
-            "created_at": "2026-01-31T16:17:44+00:00",
-            "updated_at": "2026-01-31T16:17:44+00:00",
+            "created_at": "2026-01-31T16:18:26+00:00",
+            "updated_at": "2026-01-31T16:18:26+00:00",
             "is_active": true
         }
     ],
     "user_id": "PKi0cZ8FNUORIeVZurIUNLjpPOG2",
-    "updated_at": "2026-01-31T16:17:45+00:00",
+    "updated_at": "2026-01-31T16:18:26+00:00",
     "service": "VS Cloud Service"
 }
