@@ -7,7 +7,7 @@
             "package_name": "com.crunchyroll.crunchyroid",
             "version": "1.0.0",
             "description": "Hi",
-            "ui_type": 1,
+            "ui_type": 2,
             "signature_hash": "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e",
             "redirect_url": "https://t.me/DynamiteModder",
             "aes_key": "@vaibhavsatpute@",
@@ -21,13 +21,13 @@
                 },
                 {
                     "name": "Server 2",
-                    "download_url": "https://gfzqeecnbibjhzqnygby.supabase.co/storage/v1/object/public/vaibhav/PKi0cZ8FNUORIeVZurIUNLjpPOG2_1769835989_a356773f593a2741_Crunchyroll1.aes",
-                    "fileName": "Crunchyroll1.aes",
-                    "fileSize": 141440
+                    "download_url": "",
+                    "fileName": "",
+                    "fileSize": 0
                 }
             ],
-            "created_at": "2026-02-02T16:16:51+00:00",
-            "updated_at": "2026-02-02T16:16:51+00:00",
+            "created_at": "2026-02-04T02:19:13+00:00",
+            "updated_at": "2026-02-04T02:19:13+00:00",
             "is_active": true
         },
         {
@@ -56,6 +56,6 @@
         }
     ],
     "user_id": "PKi0cZ8FNUORIeVZurIUNLjpPOG2",
-    "updated_at": "2026-02-02T16:16:52+00:00",
+    "updated_at": "2026-02-04T02:19:14+00:00",
     "service": "VS Cloud Service"
 }
