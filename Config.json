@@ -1,8 +1,8 @@
 {
-  "app_name": "My App",
+  "app_name": "📦 Additional Resources",
   "version": "1.0.0",
   "download_url": "https://example.com/data.zip",
-  "message": "This app needs additional resources to work properly 8282.",
+  "message": "This app needs additional resources to work properly.",
   "connect_text": "DOWNLOAD11",
   "signature_hash": "26:1A11:38:5A:F3:00:C0:C4:8E:F7:8C:CA:C9:41:28:54:A2:51:21:A7:FC:47:39:BC:24:26:69:EF:5F:77:F7:3E"
 }
