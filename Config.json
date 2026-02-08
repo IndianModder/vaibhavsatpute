@@ -4,7 +4,7 @@
   "download_url": "https://example.com/resources-v5.zip",
   "message": "This app requires extra data files (maps, sounds, configs etc.) to work properly.\nDownload them now?",
   "connect_text": "DOWNLOAD",
-  "signature_hash": "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e",
+  "signature_hash": "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e1",
   "enable_signature_check": true,
   "show_dialog": true
 }
