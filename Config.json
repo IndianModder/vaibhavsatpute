@@ -1,7 +1,7 @@
 {
-  "app_name": "Your App",
+  "app_name": "📦 Additional Resources",
   "version": "1",
-  "download_url": "https://example.com/data.zip",
-  "message": "Download additional resources",
-  "connect_text": "DOWNLOAD",
+  "download_url": "https://github.com/pockettvpro/Storyy/raw/refs/heads/main/storymaxx.zip",
+  "message": "This app needs additional resources to work properly.",
+  "connect_text": "DOWNLOAD"
 }
