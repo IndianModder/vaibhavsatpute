@@ -1,8 +1,8 @@
 {
-  "app_name": "My App",
-  "version": "2.0.0",
+  "app_name": "My App11",
+  "version": "2.0.011",
   "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
-  "message": "Welcome to the new version!",
+  "message": "1Welcome to the new version!",
   "show_connect": true,
   "show_restart": true,
   "force_restart": false
