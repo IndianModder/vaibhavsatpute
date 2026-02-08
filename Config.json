@@ -1,6 +1,16 @@
 {
+  "app_name": "My Application",
+  "version": "1.2.0",
+  "status": "active",
+  "require_download": true,
   "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
-  "version": "1.0.0",
-  "file_size": "5MB",
-  "description": "App resources package"
+  "message": "Configuration and resources updated successfully",
+  "action": "continue",
+  "redirect_url": "",
+  "auto_update": true,
+  "settings": {
+    "theme": "dark",
+    "language": "en",
+    "notifications": true
+  }
 }
