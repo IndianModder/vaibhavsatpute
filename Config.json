@@ -1,15 +1,9 @@
 {
-  "app_name": "My Application",
-  "version": "1.2.0",
-  "status": "active",
-  "require_download": true,
+  "app_name": "My App",
+  "version": "2.0.0",
   "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
-  "message": "New update available! Added new features and bug fixes.",
-  "action": "restart",
-  "auto_update": true,
-  "settings": {
-    "theme": "dark",
-    "language": "en",
-    "notifications": true
-  }
+  "message": "Welcome to the new version!",
+  "show_connect": true,
+  "show_restart": true,
+  "force_restart": false
 }
