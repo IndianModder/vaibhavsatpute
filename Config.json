@@ -1,10 +1,8 @@
 {
   "app_name": "📦 Additional Resources",
-  "version": "debug-1",
-  "download_url": "https://example.com/resources-v5.zip",
-  "message": "This app requires extra data files (maps, sounds, configs etc.) to work properly.\nDownload them now?",
+  "version": "1",
+  "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
+  "message": "This app needs additional resources to work properly.",
   "connect_text": "DOWNLOAD",
-  "signature_hash": "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e1",
-  "enable_signature_check": true,
-  "show_dialog": true
+  "signature_hash": "60:03:65:2C:24:5A:F2:61:A8:FA:00:86:1A:BD:94:1F:E8:1D:F2:4D:22:57:AA:AF:D0:82:87:26:EF:5C:B6:A9"
 }
