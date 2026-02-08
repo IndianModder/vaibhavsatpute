@@ -4,7 +4,7 @@
   "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
   "message": "This app needs additional resources to work properly.",
   "connect_text": "DOWNLOAD",
-  "signature_hash": "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e",
+  "signature_hash": "26:1A:38:5A:F3:00:C0:C4:8E:F7:8C:CA:C9:41:28:54:A2:51:21:A7:FC:47:39:BC:24:26:69:EF:5F:77:F7:3E",
   "enable_signature_check": true,
   "show_dialog": true
 }
