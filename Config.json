@@ -4,9 +4,8 @@
   "status": "active",
   "require_download": true,
   "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
-  "message": "Configuration and resources updated successfully",
-  "action": "continue",
-  "redirect_url": "",
+  "message": "New update available! Added new features and bug fixes.",
+  "action": "restart",
   "auto_update": true,
   "settings": {
     "theme": "dark",
