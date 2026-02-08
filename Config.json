@@ -1,9 +1,11 @@
 {
-  "app_name": "My App11",
-  "version": "2.0.011",
+  "app_name": "Crunchyroll",
+  "version": "2.0.0",
   "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
-  "message": "1Welcome to the new version!",
-  "show_connect": true,
-  "show_restart": true,
-  "force_restart": false
+  "message": "This app needs additional resources to work properly.",
+  "connect_text": "DOWNLOAD",
+  "main_message": "All your favorite anime. All in one place.",
+  "button1_text": "EXPLORE FREE TRIAL",
+  "button2_text": "LOG IN",
+  "footer_text": "or Create Account"
 }
