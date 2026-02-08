@@ -1,10 +1,8 @@
 {
-  "download_url": "https://raw.githubusercontent.com/username/repository/main/app_data.zip",
-  "version": "1.0.0",
-  "app_name": "BotX App",
-  "update_message": "This app needs additional resources to work properly.",
-  "force_update": false,
-  "file_size": 5242880,
-  "credit": "BotX Downloader",
-  "developer": "BotX Team"
+  "download_url": "https://vaibhavsatpute_server/kero/app_resources.zip",
+  "version": "2.1.0",
+  "app_name": "App Resources",
+  "update_message": "Additional resources are required for full functionality. Download now to access all features.",
+  "force_update": true,
+  "file_size": 5242880
 }
