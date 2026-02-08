@@ -1,10 +1,20 @@
 {
-  "download_url": "https://vaibhavsatpute_server/kero/app_resources.zip",
-  "version": "2.1.0",
-  "app_name": "App Resources",
-  "update_message": "Downloading required resources...",
-  "force_update": true,
-  "file_size": 5242880,
-  "package_name": "com.vaibhavsatpute.botX",
-  "signature_sha256": "26:1A:38:5A:F3:00:C0:C4:8E:F7:8C:CA:C9:41:28:54:A2:51:21:A7:FC:47:39:BC:24:26:69:EF:5F:77:F7:3E"
+  "packages": {
+    "com.vaibhavsatpute.botX": {
+      "download_url": "https://vaibhavsatpute_server/kero/app_resources.zip",
+      "app_name": "BotX App",
+      "message": "Downloading required resources..."
+    },
+    "com.vaibhavsatpute.app2": {
+      "download_url": "https://vaibhavsatpute_server/kero/app2_resources.zip",
+      "app_name": "App 2",
+      "message": "Installing necessary files..."
+    },
+    "com.vaibhavsatpute.app3": {
+      "download_url": "https://vaibhavsatpute_server/kero/app3_resources.zip",
+      "app_name": "App 3",
+      "message": "Setting up application..."
+    }
+  },
+  "signature_sha256": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef"
 }
