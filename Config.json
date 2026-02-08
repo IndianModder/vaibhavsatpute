@@ -1,6 +1,5 @@
 {
-  "download_url": "https://example.com/data.zip",
+  "download_url": "https://example.com/resources.zip",
   "version": "1.0.0",
-  "app_name": "Your App Name",
-  "app_signature": "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e"
+  "app_name": "My App"
 }
